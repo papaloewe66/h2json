@@ -1,0 +1,5 @@
+{
+   "end" : "end([0-9]+)adr",
+   "length" : "length([0-9]+)",
+   "start" : "start([0-9]+)adr"
+}
