@@ -1,4 +1,4 @@
-##C-header file to json
+## C-header file to json
 
 This script looks up definitions in a c-header file and saves them in a JSON file.
 The c-header file requires a defined 'number' with the number of blocks defined. (as starting point)
