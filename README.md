@@ -5,7 +5,7 @@ The c-header file requires a defined 'number' with the number of blocks defined.
 
 A RegEx defines the search pattern. The result is stored as "Value" for "Key".
 
-### input File
+### input File (c-header file)
 
 ```txt
 #define number 2
@@ -18,7 +18,7 @@ A RegEx defines the search pattern. The result is stored as "Value" for "Key".
 #define end1adr     2222
 #define length1     1234
 ```
-### search pattern
+### search pattern (optional pattern.json)
 
 ```json
 {
